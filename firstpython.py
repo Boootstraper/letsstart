@@ -10,4 +10,4 @@ if operator == "-":
 if operator == "*":
     print(first * second)
 else:
-    print("invalid operation")
+    print("invalid operation, plz try again")
